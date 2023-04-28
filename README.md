@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 **General Notes**
 
@@ -13,3 +14,6 @@ An `onlinecourse` app has already been provided in this repo upon which you will
 For your reference, we have prepared the ER diagram design for the new assesement feature.
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
+=======
+# final_project-lab1
+>>>>>>> 730652b1563ea010e7d84544d5da1c6981ba6beb
